@@ -6,9 +6,11 @@
 ## Results
 ### Number of Reviews
 #### * Vine Reviews: 0
-#### * Non-Vine Reviews: 403,807
+#### ![image](https://github.com/slafton/Amazon_Vine_Analysis/blob/main/Images/Paid%20Votes%20Dataframe.png)
 
-#### ![image]()
+#### * Non-Vine Reviews: 403,807
+#### ![image](https://github.com/slafton/Amazon_Vine_Analysis/blob/main/Images/UnPaid%20Votes%20Dataframe.png)
+
 
 ### 5 Star Reviews
 #### * 5 Star Vine Reviews: 0
