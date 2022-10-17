@@ -21,4 +21,4 @@
 #### * Percentage of 5 Star Non-Vine Reviews: 60.15%
 
 ## Summary 
-### From our results we have no reviews at all from teh Vine Program from this dataset. This analysis does not show any bias toward favorable reviews from Vine members. For further analysis I would recommend computing the average of the star ratings.
+### From our results we have no reviews from the Vine Program from this dataset. This analysis does not show any bias toward favorable reviews from Vine members. For further analysis I would recommend computing the average of the star ratings.
